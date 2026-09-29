@@ -1,0 +1,7 @@
+{
+  "name": "APP TẠO ẢNH VIP CỦA NÔNG DÂN CONTENT",
+  "description": "Kiến tạo vẻ đẹp quyến rũ, đẳng cấp với AI. Giữ nguyên 100% diện mạo nhân vật.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
